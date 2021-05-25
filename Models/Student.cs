@@ -10,6 +10,6 @@ namespace App.Models
         public int Age { get; set; }
         public CollegeClassification Classification { get; set; }
 
-        public List<Grade> CourseGrade { get; set; }
+        public List<Grade> Grades { get; set; }
     }
 }

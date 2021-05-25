@@ -5,6 +5,6 @@
         public int Id { get; set; }
         public int StudentId { get; set; }
         public string CourseName { get; set; }
-        public float Grades { get; set; }
+        public float GradeScore { get; set; }
     }
 }
